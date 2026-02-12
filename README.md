@@ -22,6 +22,10 @@ My goal is to create smart and scalable projects 🚀
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamedMoshtagh-dev&theme=tokyonight" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=HamedMoshtagh-dev&theme=tokyonight" />
+
   <br/>
   <!-- Frameworks & Tools -->
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" /></a>

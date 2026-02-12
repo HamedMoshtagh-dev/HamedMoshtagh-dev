@@ -42,8 +42,12 @@ My goal is to create smart and scalable projects 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HamedMoshtagh-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedMoshtagh-dev&layout=compact&theme=tokyonight" />
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HamedMoshtagh-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedMoshtagh-dev&layout=compact&theme=tokyonight" /> -->
+  <img src="https://streak-stats.demolab.com?user=HamedMoshtagh-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamedMoshtagh-dev&theme=tokyonight" />
+
+
 </p>
 
 ---
